@@ -1,0 +1,155 @@
+/*sections title*/
+#tittle{
+background-color: #ea5455;
+position: relative;
+
+
+
+}
+
+.navbar-brand{
+  font-size: 2rem;
+    font-family:'Fira Sans', sans-serif;
+}
+
+.navbar{
+  padding-left: 17%;
+  padding-right: 17%;
+  padding-top: 9%;
+
+
+}
+
+
+
+.top{
+  position: relative;
+  left: 25%;
+  bottom:30px;
+
+}
+
+.top1{
+  position: relative;
+  top:60px;
+
+}
+
+/*fonts*/
+h1{
+  font-family:'Fira Sans', sans-serif;
+  color:white;
+
+}
+
+
+
+
+/*section bi0*/
+
+h3{
+font-family: 'Anton', sans-serif;
+text-align: center;
+color: #e97171;
+}
+h6{
+  font-family: 'Fira Sans', sans-serif;
+  text-align: center;
+
+  }
+
+
+
+
+.infopic{
+
+  height: 80px;
+  width: 80px;
+
+  position: relative;
+  top:20px;
+}
+
+.ping{
+  margin-top: 40px;
+}
+
+.ping2{
+
+  height: 100px;
+  width: 100px;
+
+
+}
+
+.line{
+  height: 0;
+  border-top: 7px;
+width: 140px;
+  border-bottom: 0;
+border-style: dotted;
+color:#dddddd;
+}
+
+
+#testimonials{
+  text-align: center;
+  padding: 5% 17%;
+  background-color:#cf8172;
+
+}
+/*font-awsome edit*/
+#features{
+
+  padding: 5%  5% 10% 20% ;
+background-color:white;
+  position: relative;
+  z-index: 1;
+}
+
+#cta{
+  padding: 10% 0;
+  background-color:#ff4c68;
+  text-align: center;
+}
+
+/*FOOTER*/
+#footer{
+  text-align: center;
+}
+.edit-it:hover{
+  color: skyblue;
+
+}
+
+.testimonials-img{
+  width:10rem;
+  border-radius: 100%;
+
+}
+.achivements{
+  background-color: #cf8172;
+}
+.fab{
+  font-size:90px;
+  margin-left: 1.5rem;
+  color:#cf8172;
+}
+
+.fab:hover{
+  color:red;
+
+}
+.fab2:hover{
+  color:black;
+
+}
+.fab3:hover{
+  color:blue;
+}
+.drr{
+  text-align: center;
+}
+.rii{
+  color:#fff;
+}
